@@ -1,0 +1,6 @@
+if SHIELD_PB_GHERKIN
+
+config ZMK_KEYBOARD_NAME
+    default "PB Gherkin"
+
+endif
